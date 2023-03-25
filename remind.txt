@@ -1,0 +1,8 @@
+Đoạn mã này là một ứng dụng React Native tạo ra một carousel hình ảnh được hoạt hóa bằng FlatList và Animated API.
+ Trong đoạn mã này, một mảng data được khởi tạo với các URL hình ảnh, được sử dụng để tạo carousel. 
+ Sau đó, const imageW và const imageH được sử dụng để tính toán kích thước cho các hình ảnh trong carousel.
+
+Phần quan trọng của đoạn mã này là Animated.FlatList với các thuộc tính như data, onScroll, keyExtractor, 
+horizontal, pagingEnabled và renderItem, được sử dụng để tạo carousel và hoạt hình. 
+Mỗi hình ảnh được hiển thị trong một View, được căn giữa bằng justifyContent và alignItems.
+ Ngoài ra, hai nút "Đăng nhập" và "Đăng ký" được tạo bằng TouchableOpacity và được đặt ở cuối màn hình.

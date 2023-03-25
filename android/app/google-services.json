@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341902687647",
+    "project_id": "fir-auth-react-native-cea48",
+    "storage_bucket": "fir-auth-react-native-cea48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341902687647:android:bc818adc10fd75f568d1aa",
+        "android_client_info": {
+          "package_name": "com.Episode1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341902687647-m9qi6khg29a497dk1876uhbt75f9lneb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUWdmnBwStc5kWWiYg89ecO18WN64reY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341902687647-m9qi6khg29a497dk1876uhbt75f9lneb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
