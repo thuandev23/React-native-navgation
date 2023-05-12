@@ -1,2 +1,2 @@
 # React-native-navgation
-Please go through the main branch to see the code
+Please go through the master branch to see the code
